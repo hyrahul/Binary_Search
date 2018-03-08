@@ -1,2 +1,2 @@
 # Binary_Search
-Binary Search using Finction in C Language
+Binary Search using Function in C Language
